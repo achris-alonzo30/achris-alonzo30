@@ -80,8 +80,7 @@
     <td width="33%" valign="top">
       <div align="center">
         <h3>iNote</h3>
-        <video width="100%" controls autoPlay mute src="
-        https://github.com/user-attachments/assets/25536ccb-6460-4581-81ef-8b54b75eb307"></video>
+        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/cc71dbe9-dffd-4e0c-a49c-6f96448af85a"></video>
         <br>
         <a href="https://inote-six.vercel.app/" target="_blank">
           <button>View Site</button>
