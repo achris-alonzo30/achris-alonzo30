@@ -88,7 +88,7 @@
     <td width="33%" valign="top">
       <div align="center">
         <h3>Boxtrac</h3>
-        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/476fcfff-1e02-4ac3-a9c0-efa7e254d9fc"></video>
+        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/272305c8-c374-4f1f-88a2-126f0e75a482"></video>
         <br>
         <a href="https://github.com/achris-alonzo30/boxtrac" target="_blank">
           <button>View Repo</button>
