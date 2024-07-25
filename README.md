@@ -62,7 +62,7 @@
         <a href="https://epigram-plum.vercel.app/" target="_blank">
           <button>View Site</button>
         </a>
-        <a href="https://github.com/achris-alonzo30/" target="_blank">
+        <a href="https://github.com/achris-alonzo30/Epigram" target="_blank">
           <button>View Repo</button>
         </a>
         <p>Story telling platform for your pets.</p>
