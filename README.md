@@ -43,16 +43,13 @@
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>Prism</h3>
-        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/dd0337ef-0661-4c8d-934b-cb283256931b"></video>
+        <h3>Boxtrac</h3>
+        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/272305c8-c374-4f1f-88a2-126f0e75a482"></video>
         <br>
-        <a href="https://prism-silk.vercel.app/" target="_blank">
-          <button>View Site</button>
-        </a>
-        <a href="https://github.com/achris-alonzo30/prism" target="_blank">
+        <a href="https://github.com/achris-alonzo30/boxtrac" target="_blank">
           <button>View Repo</button>
         </a>
-        <p>Real-time document management system powered by AI.</p>
+        <p>Inventory and Order Management System.</p>
       </div>
     </td>
   </tr>
@@ -87,13 +84,16 @@
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>Boxtrac</h3>
-        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/272305c8-c374-4f1f-88a2-126f0e75a482"></video>
+        <h3>Prism</h3>
+        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/dd0337ef-0661-4c8d-934b-cb283256931b"></video>
         <br>
-        <a href="https://github.com/achris-alonzo30/boxtrac" target="_blank">
+        <a href="https://prism-silk.vercel.app/" target="_blank">
+          <button>View Site</button>
+        </a>
+        <a href="https://github.com/achris-alonzo30/prism" target="_blank">
           <button>View Repo</button>
         </a>
-        <p>Inventory and Order Management System.</p>
+        <p>Real-time document management system powered by AI.</p>
       </div>
     </td>
   </tr>
