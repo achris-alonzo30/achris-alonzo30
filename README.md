@@ -24,9 +24,6 @@
         <video width="100%" controls autoPlay mute  src="https://github.com/user-attachments/assets/1147cf5e-b77d-467c-9435-afeb94ea6d96">
         </video>
         <br>
-        <a href="https://hireme-silk.vercel.app" target="_blank">
-          <button>View Site</button>
-        </a>
         <a href="https://github.com/achris-alonzo30/hireme" target="_blank">
           <button>View Repo</button>
         </a>
@@ -38,9 +35,6 @@
         <h3>InStock</h3>
         <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/8b1f5212-05d5-4837-8de0-7bcef70c9207"></video>
         <br>
-        <a href="https://github.com/achris-alonzo30/south-american-horned-frog-instock" target="_blank">
-          <button>View Site</button>
-        </a>
         <a href="https://github.com/achris-alonzo30/south-american-horned-frog-instock" target="_blank">
           <button>View Repo</button>
         </a>
@@ -91,6 +85,17 @@
         <p>Minimalist note-taking platform powered by AI.</p>
       </div>
     </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>Boxtrac</h3>
+        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/476fcfff-1e02-4ac3-a9c0-efa7e254d9fc"></video>
+        <br>
+        <a href="https://github.com/achris-alonzo30/boxtrac" target="_blank">
+          <button>View Repo</button>
+        </a>
+        <p>Inventory and Order Management System.</p>
+      </div>
+    </td>
   </tr>
 </table>
 
@@ -99,7 +104,7 @@
 
 ###
 
-<h2 align="left">💻 Stacks </h2>
+<h2 align="left">💻 Tech Stacks 💻</h2>
 
 <table><tr><td valign="top" width="50%">
 
@@ -148,7 +153,7 @@
 <br/>
 
 
-## 🔥 Stats
+## 🔥 Stats 🔥
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achris-alonzo30&hide_border=true&theme=transparent" align="center" /></div>  
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=achris-alonzo30&theme=dark-minimalist&hide_border=true" align="center" /></div>  
