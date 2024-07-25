@@ -36,9 +36,9 @@
         <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/8b1f5212-05d5-4837-8de0-7bcef70c9207"></video>
         <br>
         <a href="https://github.com/achris-alonzo30/south-american-horned-frog-instock" target="_blank">
-          <button>View Repo</button>
+          <button>🔐 Private Repo</button>
         </a>
-        <p>Collaborative project management.</p>
+        <p>Collaborative project management. </p>
       </div>
     </td>
     <td width="33%" valign="top">
