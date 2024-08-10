@@ -110,8 +110,8 @@
 
 <div align="start">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/3780d7b7-1c12-4016-b7e0-da6fbf33640a" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/dbc72ed3-7488-4dd4-8051-76099ceca0e7" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/3f09a9df-3edb-46d3-a256-5091c1cb492e" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/1ae62644-a4ab-4336-a12e-31eb8ccafdf5" alt="TypeScript" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
