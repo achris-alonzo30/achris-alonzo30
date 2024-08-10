@@ -9,7 +9,7 @@
 <br>
 🧠 I'm a quick learner and love to learn new technologies.  
 <br>
-💪 Proficient in both front-end and back-end that brings creative ideas to code.  
+💪 Proficient in both front-end and back-end, bringing creative ideas to code. 
 <br>
 🏋️‍♂️ Besides programming, I love weightlifting, cooking, and baking👨‍🍳 
 </p>
