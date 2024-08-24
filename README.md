@@ -24,7 +24,7 @@
         <video width="100%" controls autoPlay mute  src="https://github.com/user-attachments/assets/1147cf5e-b77d-467c-9435-afeb94ea6d96">
         </video>
         <br>
-        <a href="https://github.com/achris-alonzo30/hireme" target="_blank">
+        <a href="https://github.com/achris-alonzo30/hireme-capstone" target="_blank">
           <button>View Repo</button>
         </a>
         <p>Simplifies job search process.</p>
