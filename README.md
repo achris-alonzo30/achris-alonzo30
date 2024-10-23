@@ -115,7 +115,7 @@
     <td width="33%" valign="top">
       <div align="center">
         <h3>Ryde</h3>
-        <img width="100%" src="https://github.com/user-attachments/assets/1e85788b-4606-4aa5-b32b-ba8958a4ec9a"></video>
+        <img width="100%" height="auto" src="https://github.com/user-attachments/assets/1e85788b-4606-4aa5-b32b-ba8958a4ec9a"></video>
         <br>
         <a href="https://github.com/achris-alonzo30/uber-clone" target="_blank">
           <button>View Repo</button>
