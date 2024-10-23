@@ -109,7 +109,7 @@
         <a href="=https://github.com/achris-alonzo30/slack-clone" target="_blank">
           <button>View Repo</button>
         </a>
-        <p>Story telling platform for your pets.</p>
+        <p>Slack Clone Website</p>
       </div>
     </td>
     <td width="33%" valign="top">
