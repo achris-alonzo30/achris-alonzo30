@@ -97,6 +97,44 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>Slack</h3>
+        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f9693bf4-d98b-4b57-9713-093c68104f34"></video>
+        <br>
+        <a href="https://slack-clone-ruddy-nine.vercel.app" target="_blank">
+          <button>View Site</button>
+        </a>
+        <a href="=https://github.com/achris-alonzo30/slack-clone" target="_blank">
+          <button>Slack Clone</button>
+        </a>
+        <p>Story telling platform for your pets.</p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>Ryde</h3>
+        <img width="100%" src="https://github.com/user-attachments/assets/c90b5924-d90e-43e3-bc5e-4989ad30cd8a"></video>
+        <br>
+        <a href="https://github.com/achris-alonzo30/uber-clone" target="_blank">
+          <button>View Repo</button>
+        </a>
+        <p>Uber Clone Mobile App</p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>DevVault</h3>
+        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/17885482-ee73-4b23-b7b8-c6bcea4d615c"></video>
+        <br>
+        <a href="https://devvault.dev" target="_blank">
+          <button>View Site</button>
+        </a>
+        <p>My First SaaS: NextJS Boilerplate</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 
